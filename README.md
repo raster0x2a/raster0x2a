@@ -1,4 +1,13 @@
-### Hi there 👋
+### R* / raster0x2a
+
+[![](https://komarev.com/ghpvc/?username=raster0x2a&color=blueviolet)](https://github.com/raster0x2a)
+[![](https://qiita-badge.apiapi.app/s/R-aster/contributions.svg)](https://qiita.com/R-aster)
+[![](https://img.shields.io/twitter/follow/raster0x2a_tech?label=Twitter&logo=twitter&style=flat)](https://x.com/raster0x2a_tech)
+[![](https://img.shields.io/github/followers/raster0x2a?label=GitHub&logo=github&style=flat)
+](https://github.com/raster0x2a)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raster0x2a&theme=radical&exclude=scss) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raster0x2a&theme=radical&exclude=scss)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raster0x2a&theme=radical)
 
 <!--
 **raster0x2a/raster0x2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
